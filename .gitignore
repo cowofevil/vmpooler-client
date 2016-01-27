@@ -22,3 +22,6 @@ import
 .ruby-version
 *.lock
 *.pyc
+
+dist/
+MANIFEST
